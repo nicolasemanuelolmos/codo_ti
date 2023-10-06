@@ -31,7 +31,6 @@ header {
         }
     }
     & nav {
-        position: sticky;
         float: right;
         margin: 1.3em 3em;
         & a {
